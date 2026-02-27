@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Born To Die",
+  "base_artist": "Lana Del Rey",
+  "createdAt": "2026-02-27T04:27:59.961943Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Born To Die",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/01_Born_To_Die_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Born to Die (Clams Casino remix)",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/02_Born_to_Die_(Clams_Casino_remix)_Lana_Del_Rey.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Born to Die (Gemini Remix)",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/03_Born_to_Die_(Gemini_Remix)_Lana_Del_Rey.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Born To Die - PDP / 13 Remix",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/04_Born_To_Die_-_PDP___13_Remix_Lana_Del_Rey.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Born To Die (PDP \u0000 13 Remix)",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/05_Born_To_Die_(PDP_\u0000_13_Remix)_Lana_Del_Rey.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Born To Die - Woodkid & The Shoes Remix",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/06_Born_To_Die_-_Woodkid_&_The_Shoes_Remix_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Born to Die (Chad Valley remix)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/07_Born_to_Die_(Chad_Valley_remix)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Born to Die (PDP/13 Remix)",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/08_Born_to_Die_(PDP_13_Remix)_Lana_Del_Rey.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Born to Die (Parrade remix)",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/09_Born_to_Die_(Parrade_remix)_Lana_Del_Rey.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Born to Die (Woodkid & the Shoes Remix)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/10_Born_to_Die_(Woodkid_&_the_Shoes_Remix)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Born to Die",
+      "artist": "Bathory",
+      "has_synced": true,
+      "path": "select/11_Born_to_Die_Bathory.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Born To Die",
+      "artist": "Tiamat",
+      "has_synced": true,
+      "path": "select/12_Born_To_Die_Tiamat.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Born To Die",
+      "artist": "Exciter",
+      "has_synced": false,
+      "path": "select/13_Born_To_Die_Exciter.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Born To Die",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/14_Born_To_Die_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Born To Die In Berlin",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/15_Born_To_Die_In_Berlin_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Born to Die",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/16_Born_to_Die_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Born To Die",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/pl_01_Born_To_Die_Lana_Del_Rey.txt"
+    }
+  ]
+}
